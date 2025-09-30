@@ -21,18 +21,7 @@
   <img alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 </div>
 
----
 
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/joyce-cabral-8b9058331/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:joycemayara.cabral@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
 ---
 
@@ -46,6 +35,16 @@
 
 ---
 
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joyce-cabral-8b9058331/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:joycemayara.cabral@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 
 
