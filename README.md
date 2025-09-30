@@ -41,5 +41,9 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="https://dummyimage.com/1200x250/1e1e2e/f8f8f2&text=Bem-vinda(o)+ao+meu+GitHub!+💻🚀" alt="Banner" />
+</div>
+
 
 
