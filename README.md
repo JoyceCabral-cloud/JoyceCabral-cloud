@@ -5,7 +5,7 @@
 - 🤝 I’m looking to collaborate on beginner-friendly open-source projects.
 - 💬 Ask me about my learning journey, logic building, or beginner project ideas.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joyce-cabral-8b9058331/) | [Email](joycemayara.cabral@email.com)
-- 🌟 Pronouns:she/her
+- 🌟 Pronouns: she/her
 - 🎉 Fun fact: I once “fixed” a bug by accident and then spent an hour figuring out how I did it.
 
 ---
@@ -33,8 +33,8 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JoyceCabral-cloud/JoyceCabral-cloud/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation (light)" />
-  <img src="https://raw.githubusercontent.com/JoyceCabral-cloud/JoyceCabral-cloud/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation (dark)" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JoyceCabral-cloud&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
+
 
 
