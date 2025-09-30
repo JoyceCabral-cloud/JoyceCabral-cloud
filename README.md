@@ -32,11 +32,14 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoyceCabral-cloud&theme=dracula" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoyceCabral-cloud&theme=dracula" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoyceCabral-cloud&theme=dracula" alt="Stats" />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/joyce-cabral-8b9058331/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:joycemayara.cabral@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 
 
