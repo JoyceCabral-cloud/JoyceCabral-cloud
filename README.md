@@ -1,7 +1,5 @@
 
-<div align="center">
-  <img src="https://dummyimage.com/1200x250/1e1e2e/f8f8f2&text=Bem-vinda(o)+ao+meu+GitHub!" alt="Banner" />
-</div>
+
 
 ### Hi there 👋
 
@@ -24,18 +22,6 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoyceCabral-cloud&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyceCabral-cloud&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoyceCabral-cloud&theme=dracula" alt="GitHub Streak" />
-</div>
-
----
 
 ### 🚀 Technologies I Use
 
