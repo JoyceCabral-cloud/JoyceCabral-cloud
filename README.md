@@ -33,9 +33,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/JoyceCabral-cloud">
-    <img src="https://github.com/JoyceCabral-cloud/JoyceCabral-cloud/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-  </a>
+  <img src="https://raw.githubusercontent.com/JoyceCabral-cloud/JoyceCabral-cloud/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation (light)" />
+  <img src="https://raw.githubusercontent.com/JoyceCabral-cloud/JoyceCabral-cloud/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation (dark)" />
 </div>
 
 
