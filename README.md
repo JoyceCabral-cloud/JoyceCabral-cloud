@@ -49,13 +49,6 @@
 
 ---
 
-### ⏱️ Coding Activity (via WakaTime)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JoyceCabral-cloud&theme=dracula" alt="WakaTime Stats" />
-</div>
-
----
 
 ### 📫 Connect with Me
 
