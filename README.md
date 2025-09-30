@@ -10,10 +10,6 @@
 
 ---
 
-
-
----
-
 ### 🌟 Profile Overview
 
 <div align="center">
