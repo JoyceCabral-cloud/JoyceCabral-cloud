@@ -33,8 +33,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoyceCabral-cloud&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoyceCabral-cloud&theme=dracula&hide_border=true" alt="Activity Graph" />
 </div>
-
 
 
