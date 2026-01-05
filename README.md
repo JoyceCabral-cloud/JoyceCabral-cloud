@@ -3,12 +3,6 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently working on small projects to practice programming concepts.  
-- 📚 I’m learning new programming paradigms and improving my problem-solving skills.  
-- 🤝 I’m looking to collaborate on beginner-friendly open-source projects.  
-- 💬 Ask me about my learning journey, logic building, or beginner project ideas.  
-- 🌟 Pronouns: she/her  
-- 🎉 Fun fact: I once “fixed” a bug by accident and then spent an hour figuring out how I did it.
 
 ---
 
