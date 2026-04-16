@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Joyce</h1>
+<h1 align="center">Hi there 👋 
 
 <p align="left">
   💻 Software Developer in progress <br>
